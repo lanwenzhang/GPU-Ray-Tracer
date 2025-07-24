@@ -1,1 +1,1 @@
-# VK-Path-Tracer
+# GPU-Path-Tracer
