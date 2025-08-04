@@ -1,1 +1,1 @@
-# GPU-Path-Tracer
+# GPU-Ray-Tracer
